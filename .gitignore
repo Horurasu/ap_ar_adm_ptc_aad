@@ -1,0 +1,12 @@
+# Carpeta de fotos (no subir al repositorio)
+IMAGENES/
+
+# Imágenes en general
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.heic
+*.tiff
